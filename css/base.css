@@ -1,5 +1,5 @@
 /* BASE STYLESHEET DetectInTraffic
-Delta 10.Aug.02017: Init 
+Delta 10.Aug.02017: Init of docs
 */
 
 body {
@@ -11,12 +11,17 @@ body {
 h3 {
 	border: solid 1px #d5d5d5;
 	font: normal 32px 'Monserrat';
+	text-align: center;
+	margin: 0;
+	padding: 50px 0 25px;
 }
 
 p {
 	border: solid 1px #d5d5d5;
 	font: normal 72px 'Zilla Slab';
 	text-align: center;
+	padding: 25px 0 0;
+	margin: 0;
 }
 
 #mc_embed_signup {
@@ -24,3 +29,19 @@ p {
 	clear:left;
 	font:14px Helvetica,Arial,sans-serif;
 	}
+
+.mc-field-group {
+	opacity: 1.0;
+	float: left;
+	margin-left: 450px;
+	padding-right: 25px;
+}
+
+#mce-EMAIL {
+	font: normal 22px 'Monserrat';	
+}
+
+#mc-embedded-subscribe {
+	float: left;
+	font: normal 22px 'Monserrat';	
+}
