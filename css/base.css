@@ -3,10 +3,12 @@ Delta 10.Aug.02017: Init
 */
 
 h3 {
+	border: solid 1px #d5d5d5;
 	font: normal 32px 'Monserrat';
 }
 
 p {
+	border: solid 1px #d5d5d5;
 	font: normal 18px 'Zilla Slab';
 }
 
