@@ -2,14 +2,19 @@
 Delta 10.Aug.02017: Init 
 */
 
+body {
+	background-image: url('/img/city-traffic-illustration.jpg');
+}
+
 h3 {
 	border: solid 1px #d5d5d5;
 	font: normal 32px 'Monserrat';
 }
 
 p {
-	border: solid 1px #d5d5d5;
-	font: normal 18px 'Zilla Slab';
+	/*border: solid 1px #d5d5d5;*/
+	font: normal 72px 'Zilla Slab';
+	text-align: center;
 }
 
 #mc_embed_signup {
