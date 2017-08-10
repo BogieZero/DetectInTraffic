@@ -3,7 +3,9 @@ Delta 10.Aug.02017: Init
 */
 
 body {
-	background-image: url('/img/city-traffic-illustration.jpg');
+	background-image: url('../images/city-traffic-illustration.jpg');
+	padding: 0;
+	margin: 0;
 }
 
 h3 {
@@ -12,7 +14,7 @@ h3 {
 }
 
 p {
-	/*border: solid 1px #d5d5d5;*/
+	border: solid 1px #d5d5d5;
 	font: normal 72px 'Zilla Slab';
 	text-align: center;
 }
