@@ -1,2 +1,2 @@
 # DetectInTraffic
-File for DiTs
+Files for DiT
