@@ -1,3 +1,3 @@
 # DetectInTraffic
-Files for DiTxxx
+Files for the DiT site.
 
