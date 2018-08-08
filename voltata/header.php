@@ -39,12 +39,11 @@
 
 <body <?php body_class(); ?>>
 
+<!-- custom made -->
 <div class="mastheader-dit">
-	
 	<img class="mast-pix" src="/images/achtergrondfoto-original-no5.png">
-	<h1 class="site-title">Detectin Trafficx</h1>
-	<p class="site-description"><?php bloginfo( 'description' ); ?></p>
-
+	<h1 class="site- title">Detectin Traffic</h1>
+	<p class="site-description"><?php bloginfo('description' ); ?></p>
 </div><!-- end .mastheader-dit -->
 	
 
