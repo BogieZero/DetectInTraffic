@@ -42,8 +42,9 @@
 <!-- custom made -->
 <div class="mastheader-dit">
 	<img class="mast-pix" src="/images/achtergrondfoto-original-no5.png">
-	<h1 class="site- title">Detectin Traffic</h1>
+	<h1 class="site-title">Detectin Traffic</h1>
 	<p class="site-description"><?php bloginfo('description' ); ?></p>
+	<img width="200" height="200" src="/images/logo.jpg" class="custom-logo" alt="DetectinTraffic" itemprop="logo" /></a>
 </div><!-- end .mastheader-dit -->
 	
 
