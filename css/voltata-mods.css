@@ -53,3 +53,12 @@ h1.site-title {
 .site-description {
 	margin-top: 350px;
 }
+
+.entry-title {
+	margin-bottom: 25px;
+}
+
+p {
+	/*font: normal 16px/24px 'Zilla-Slab';*/
+	font: normal 16px/24px 'Monserrat';
+}
