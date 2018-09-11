@@ -28,8 +28,8 @@ img.mast-pix {
 img.custom-logo {
 	/*border: solid 1px red;*/
 	position: absolute;
-	top: 150px;
-	left: 115px;
+	top: 50px;
+	left: 110px;
 }
 
 .site-header {
@@ -45,3 +45,11 @@ ul.nav-menu {
 	font-size: 22px;
 }
 
+h1.site-title {
+	/*border: solid 1px red;*/
+	margin-top: 250px;	
+}
+
+.site-description {
+	margin-top: 350px;
+}
